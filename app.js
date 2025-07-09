@@ -74,3 +74,17 @@ if (pontuação >= 100) {
 }
 
 */
+
+
+
+/*DESAFIO 4 09/07/2025
+let saldoConta = 100; 
+alert (`Seu saldo é de R$${saldoConta}`)
+*/
+
+
+
+/*DESAFIO 5 09/07/2025
+nome = prompt ('Insira seu nome');
+alert('Boas vindas ' + nome)
+*/
