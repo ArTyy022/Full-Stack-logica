@@ -42,18 +42,12 @@ if (idade >= 18) {
 
 
 
-
-/* DESAFIO 1 09/07/2025
-diaDaSemana = prompt ('Qual é o dia da semana?');
-if (diaDaSemana == 'Sabado') {
+let diaDaSemana = prompt ('Qual é o dia da semana?');
+if (diaDaSemana == 'Sabado' || diaDaSemana == 'Domingo') { 
     alert('Bom fim de semana');
-}
-else if (diaDaSemana == 'Domingo') {
-    alert ('Bom fim de semana');
-} else {
+}else {
     alert ('Boa semana');
-}
-*/
+};
 
 
 /* DESAFIO 2 09/07/2025
