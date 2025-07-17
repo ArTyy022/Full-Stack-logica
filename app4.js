@@ -47,17 +47,10 @@ if(idade >=18){
 }*/
 
 //Desafio 8
-/* let numero = prompt("Escolha um numero");
-if (numero > 0) {
-    console.log("O número é positivo.");
-    alert("Seu número é positivo")
-} else if (numero < 0) {
-    console.log("O número é negativo.");
-    alert("Seu número é negativo")
-} else {
-    console.log("O número é zero.");
-    alert("Seu número é 0")
-} */
+let numero = prompt("Escolha um número");
+
+numero > 0? (console.log("O número é positivo."), alert("Seu número é positivo")) : 
+numero < 0 ? (console.log("O número é negativo."), alert("Seu número é negativo")) : (console.log("O número é zero."), alert("Seu número é 0"));
 
 
 
